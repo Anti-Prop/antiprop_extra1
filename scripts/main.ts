@@ -1,6 +1,3 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-
 function runScript() {
         var targets = {
             'https://absolutbank.ru/': { number_of_requests: 0, number_of_errored_responses: 0 },
