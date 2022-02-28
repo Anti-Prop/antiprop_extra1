@@ -20,10 +20,21 @@ pre {
 	color: black;
 }
 
- .button {
+ .button1 {
   background-color: blue;
   border: none;
-  color: yellow;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+ .button2 {
+  background-color: yellow;
+  border: none;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
