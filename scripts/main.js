@@ -1,3 +1,4 @@
+function runScript() {
         var targets = {
             'https://absolutbank.ru/': { number_of_requests: 0, number_of_errored_responses: 0 },
             'https://www.avangard.ru/rus/': { number_of_requests: 0, number_of_errored_responses: 0 },
@@ -200,3 +201,4 @@
 
         //Start
         Object.keys(targets).map(flood)
+}
