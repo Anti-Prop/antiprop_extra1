@@ -1,0 +1,21 @@
+body {
+	font-weight: normal;
+	font-family: monospace;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	text-align-last: center;
+	font-size: larger;
+}
+
+pre {
+	font-weight: normal;
+	font-family: monospace;
+	color: black;
+}
